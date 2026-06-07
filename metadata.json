@@ -1,0 +1,8 @@
+{
+  "name": "الميراث الذكي",
+  "description": "تطبيق تفاعلي ذكي لتعلم وجدولة علم الميراث وحساب التركات لشهادة البكالوريا الجزائرية وفق قانون الأسرة مع مساعد ذكي يعمل بالذكاء الاصطناعي",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
